@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu May 14 16:00:52 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\simon\\Desktop\\consumertest.jar
+manifest.mergeall=true
+manifest.mainclass=kafka.Consumertest
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|flumekafkaStorm>~kafka/~KafkaSink.class;<po|flumekafkaStorm>~kafka/~Partitionertest.class;<po|flumekafkaStorm>~kafka/~Producertest.class;<po|flumekafkaStorm>~storm/;<jar|jopt-simple-3.2.jar>;<jar|storm-core-0.9.4.jar>;<jar|flume-ng-configuration-1.5.2.jar>;<jar|flume-ng-core-1.5.2.jar>;<jar|flume-ng-sdk-1.5.2.jar>
+includes=
